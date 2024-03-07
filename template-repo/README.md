@@ -1,16 +1,16 @@
-# Nombre del programa 
+# Nombre del programa o script
+[Descripción del programa]
+
+## Uso del script
+[Descripción del uso del progrma]
 
 
-## Uso
-
-
-
-## Salida
-
+## Salida del scrip 
+[Acción de salida]
 
 
 ## Control de errores
-
+Si el archivomproporcionado no existe, el script generara un mensaje de error
 
 
 ## Pruebas
