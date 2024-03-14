@@ -2,15 +2,15 @@
 [Descripción del programa]
 
 ## Uso del script
-[Descripción del uso del progrma]
+[Descripción del uso del programa]
 
 
-## Salida del scrip 
+## Salida del script
 [Acción de salida]
 
 
 ## Control de errores
-Si el archivomproporcionado no existe, el script generara un mensaje de error
+Si el archivo proporcionado no existe, el script generara un mensaje de error
 
 
 ## Pruebas
