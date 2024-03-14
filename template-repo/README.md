@@ -1,35 +1,35 @@
-# Nombre del programa o script
-[Descripción del programa]
-
-## Uso del script
-[Descripción del uso del programa]
+# Nombre del script (aqui) y una breve descripcion ♡♡
 
 
-## Salida del script
-[Acción de salida]
 
+## Uso
+
+
+
+## Salida
+
+ 
 
 ## Control de errores
-Si el archivo proporcionado no existe, el script generara un mensaje de error
+
 
 
 ## Pruebas
-
 
 
 ## Datos
 
 
 
-## Metadatos y documentación
+## Metadatos y documentacion
 
 
 
-## Código fuente
+## Codigo fuente
 
 
 
-## Términos de uso
+## Terminos de uso
 
 
 
@@ -37,6 +37,5 @@ Si el archivo proporcionado no existe, el script generara un mensaje de error
 
 
 
-## Contáctenos
-
+## Contactenos
 
